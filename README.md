@@ -29,4 +29,5 @@
 <br/>
 
 ## Donations :
-<a href="https://ko-fi.com/ahosenpaiffxiv" target="_blank" rel="noopener noreferrer"><img align="left" alt="ko-fi" width="26px" src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg"/><a/>
+<a href="https://ko-fi.com/ahosenpaiffxiv"><img align="left" alt="ko-fi" width="26px" src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg"/><a/>
+(`CTRL/CMD + Click` to open in a new tab)
