@@ -24,3 +24,9 @@
 ## Operating Systems : 
 <img align="left" alt="Win10" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
 <img align="left" alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg" />
+
+<br/>
+<br/>
+
+## Donations :
+<a href="https://ko-fi.com/ahosenpaiffxiv" target="_blank" rel="noopener noreferrer"><img align="left" alt="ko-fi" width="26px" src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg"/><a/>
